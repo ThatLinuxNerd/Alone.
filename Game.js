@@ -49,7 +49,7 @@ const textNodes = [
     },
     {
         id: 2,
-        text: ", after looking around you notice that your are completely ALONE So now knowing that there seems to be no escape you decide to pull out your camera you think logging your travel through this place might help reveal a way out of were ever you are at You start your journey starting off your log stating that you some how ended up here but you dont know why As you are looking around you notice some peculiar symbols around do you inspect or explore",
+        text: "After looking around you notice that your are completely ALONE So now knowing that there seems to be no escape you decide to pull out your camera you think logging your travel through this place might help reveal a way out of were ever you are at You start your journey starting off your log stating that you some how ended up here but you dont know why As you are looking around you notice some peculiar symbols around do you inspect or explore",
         options: [
             {
                 text: 'stuff',

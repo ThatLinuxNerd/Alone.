@@ -18,4 +18,4 @@ inspect: When you bend down to get a closer look you notice it reads 01000101
  photo: You look a little closer and notice it says 01000101 
 
 
-looking for food: When you go out to look for food you find some 
+looking for food: When you go out to look for food you find some berries 

@@ -1,27 +1,24 @@
 *, *::before, *::after {
     box-sizing: border-box;
     font-family:Arial, Helvetica, sans-serif
-
 }
-
-
 body {
-    padding: 0;
-    margin: 0;
+    padding-top: 40%;
     display: flex;
     justify-content: center;
     align-items: center;
     width: 100vw;
     height: 100vh;
     background-color: black;  
+    color: green;
 }
+/*
 .contaner {
     width: 800px;
     max-width: 90%;
     text-align: center;
     padding: 10px;
-    color: green;
 }
-.button {
-    
+.button {   
 }
+*/

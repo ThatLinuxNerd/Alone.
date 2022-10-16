@@ -19,7 +19,9 @@ body {
     text-align: center;
     padding: 10px;
 }
-/*
-.button {   
+
+.btn { 
+    font-size: medium;
+    color: green;
+    background-color: black;  
 }
-*/

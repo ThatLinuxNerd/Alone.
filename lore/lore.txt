@@ -8,7 +8,7 @@ inspect: you bend down and inspect the strange symbols written into the ground, 
 
 
 
-explore: you decide to ignore the strange symbols and instead you walk off to try to explore, completely pushing that symbol out of your mind as you try to understand where you are. do you, you feel a bit hungry, you go off and try to find something even remotely edible?, venture  in search for any type of shelter? its cold. or do you  go back
+ignore: you decide to ignore the strange symbols and instead you walk off to try to explore, completely pushing that symbol out of your mind as you try to understand where you are. do you, you feel a bit hungry, you go off and try to find something even remotely edible?, venture  in search for any type of shelter? its cold. or do you  go back
 
 Search for more: You start looking for more after you saw the first one to see if there is only one cause it intrigues you
 

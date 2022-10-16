@@ -8,7 +8,7 @@ inspect: you bend down and inspect the strange symbols written into the ground, 
 
 
 
-explore: you decide to ignore the strange symbols and instead you walk off to try to explore, completely pushing that symbol out of your mind as you try to understand where you are. do you, you feel a bit hungry, you go off and try to find something even remotely edible?, venture  in search for any type of shelter? its cold. or do you  
+explore: you decide to ignore the strange symbols and instead you walk off to try to explore, completely pushing that symbol out of your mind as you try to understand where you are. do you, you feel a bit hungry, you go off and try to find something even remotely edible?, venture  in search for any type of shelter? its cold. or do you  go back
 
 Search for more: You start looking for more after you saw the first one to see if there is only one cause it intrigues you
 
@@ -18,4 +18,61 @@ inspect: When you bend down to get a closer look you notice it reads 01000101
  photo: You look a little closer and notice it says 01000101 
 
 
-looking for food: When you go out to look for food you find some berries 
+looking for food: When you go out to look for food you find some berries after eating the berries you suddenly start choking they were posions and you die shortly after eating them
+
+looking for shelter: when looking for shelter you stumble apon a cave and notice a symbol you lean in closer and notice it says 01100011
+
+going back: you go back to look at that symbol you saw but you get a little turned around and arive at a cave when inside the cave you see a symbol it reads 01100011
+
+After inspecting the symbol and noticing it had numbers you go looking to see if you can find more cause you think this can be your way out you start to walk of in a random direction
+
+After stumbiling and finding the cave and seeing the symbol you see that you can go deep in the cave do you go deeper 
+
+while looking for more symbols in the random direction you go is north or do you go east or do you go south
+
+while deciding if you wanna go deeper in the cave you notice other options do you go deeper could be something good in there or do you go to the lake you spotted in the distance in the cave or turn back and leave i already found something
+
+going east: while heading east you stumble apon a tree with a carving looking closely you see that it has  symbols they read 01110000 and 01100101 
+
+going north: while heading north you come acrost a clif 
+
+going west: you being walking or so long it has become completly dark out 
+
+going deeper into the cave: going deeper into the cave you notice that it leads to a small torch light room where you see a big arrow 
+
+going to the lake: you decide to head to the lake it is the first body of water that you have seen since you showed up here 
+
+leaving the cave: you decide to leave you think nothing else could be there so why keep looking while walking out you trip on a branch and see two symbols carved into the dirt they seem to read 	01110000 and 	01100101 
+
+After finding the tree you are very ecited you have three symbols already and you think you remember what they mean so you look back through your footage you have so far do you wwrite down the numbers you have so far or keep looking for more symbols 
+
+writing down the numbers: after writing the numbers you notice something the symbols seem to be a code for something 
+
+loking for more symbols: after you start looking for more symbols you end up finding the last few symbols witch are 01110011 and 01100001 this fills you with joy 
+
+When you first look at the cliff it looks like there is a way up but you uncertain if you should go up 
+
+going up the cliff: you decided to climb the cliff when you make it to the half way point you slip and fall all the way back down
+
+not going up the cliff: you decided on not going up the cliff and decided it would be better if you looked for a different way 
+
+While walking ALONE in the dark you have no idea were you are you cant see thing and you end up triping on something but you dont know what 
+
+look at what you triped over: you spot a rock picking it up seems to have reveald a message look closely at the numbers a clue to solve the riddle maybe 
+
+After you see the arrow in the cave you follow the arrows witch leads to  a split in paths to go 
+
+go right: you decided to go right cause right is always right right? well when ya go right you find a big door with symbols on them they look like some of the symbols you have seen before you start to think this is the way out of this hell
+
+go left: you decided right wasnt always right so you decided to head left while looking around you hear a sound it sounded like something was triped next thing you know your hanging upside down 
+
+While swiming in the lake you like how cold the water feels but while you are messing around you spot something is it a symbol you think
+
+dive down to see what it is: while diving you find an old key that looks like it goes to something special 
+
+ignore it your just seeing things: you decided that your are just seeing things and that nothing is realy there at all
+
+After triping on what you thought was a branch you here a sound like something jsut opened up but you dont know here it came from 
+
+look for what you opened up accedently: as you are walking around looking for what you opened up you run into a door that you dont think should be here but it looks like a secret passage
+

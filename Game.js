@@ -49,34 +49,72 @@ const textNodes = [
     },
     {
         id: 2,
-        text: "As you are looking around you notice some peculiar symbols around do you",
+        text: "As you are looking around you notice some peculiar symbols around",
         options: [
             {
                 text: '>Inspect the Symbols<',
                 setState: { symbolsSeen1: true, noPhoto: true},
-                nextText: 3
+                nextText: 52
             },
             {
                 text: '>Ignore the Symbols<',
-                nextText: 104
+                nextText: 98
             }
             
         ]
     },
     {
-        id: 3,
+        id: 52,
         text: "you bend down and inspect the strange symbols written into the ground, they	seem....Familiar...maybe if you had enough to go off of you could maybe understand it?",
         options: [
             {
                 text: '>Search for More Symbols<',
-                nextText: 4
+                nextText: 20
             },
             {
                 text: '>Take a photo of it for later use<',
                 requiredState: (currentState) => currentState.noPhoto,
                 setState: {hasPhoto: true, noPhoto: false},
-                nextText: 3
+                nextText: 31
             }
+        ]
+    },
+    {
+        id: 31,
+        text: "You look a little closer and notice it says 01000101. You decide to walk off to try to explore",
+        options: [
+            {
+                text: '>Look for Food<',
+                nextText: 19
+            },
+            {
+                text: '>Look For Shelter<',
+                nextText: 12
+            }
+        ]
+    },
+    {
+        id: 19,
+        text: "When you go out to look for food you find some berries",
+        options: [
+            {
+                text: '>Eat the Berries<',
+                nextText: 666
+            },
+            {
+                text: '>Leave the Berries<',
+                nextText: 12
+            }
+        ]
+    },
+    {
+        id: 12,
+        text: "",
+        options: [
+            {
+                text: '><',
+                nextText: 0
+            },
         ]
     },
 ]

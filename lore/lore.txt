@@ -18,9 +18,9 @@ inspect: When you bend down to get a closer look you notice it reads 01000101
  photo: You look a little closer and notice it says 01000101 
 
 
-looking for food: When you go out to look for food you find some berries after eating the berries you suddenly start choking they were posions and you die shortly after eating them
+food: When you go out to look for food you find some berries after eating the berries you suddenly start choking they were posions and you die shortly after eating them
 
-looking for shelter: when looking for shelter you stumble apon a cave and notice a symbol you lean in closer and notice it says 01100011
+shelter: when looking for shelter you stumble apon a cave and notice a symbol you lean in closer and notice it says 01100011
 
 going back: you go back to look at that symbol you saw but you get a little turned around and arive at a cave when inside the cave you see a symbol it reads 01100011
 

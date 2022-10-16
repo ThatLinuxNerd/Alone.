@@ -53,6 +53,7 @@ const textNodes = [
         options: [
             {
                 text: '>Inspect the Symbols<',
+                setState: { symbolsSeen1: true, noPhoto: true},
                 nextText: 3
             },
             {
@@ -69,6 +70,12 @@ const textNodes = [
             {
                 text: '>Search for More Symbols<',
                 nextText: 4
+            },
+            {
+                text: '>Take a photo of it for later use<',
+                requiredState: (currentState) => currentState.noPhoto,
+                setState: {hasPhoto: true, noPhoto: false},
+                nextText: 3
             }
         ]
     },

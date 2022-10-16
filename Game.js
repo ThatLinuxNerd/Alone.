@@ -64,6 +64,20 @@ const textNodes = [
         ]
     },
     {
+        id: 98,
+        text: 'you decide to ignore the strange symbols and instead you walk off to try to explore, completely pushing that symbol out of your mind as you try to understand where you are',
+        options: [
+            {
+                text: '>Look for Food<',
+                nextText: 19
+            },
+            {
+                text: '>Look For Shelter<',
+                nextText: 12
+            }
+        ]
+    },
+    {
         id: 52,
         text: "you bend down and inspect the strange symbols written into the ground, they	seem....Familiar...maybe if you had enough to go off of you could maybe understand it?",
         options: [

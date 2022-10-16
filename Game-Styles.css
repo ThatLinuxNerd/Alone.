@@ -21,6 +21,7 @@ body {
 }
 
 .btn { 
+    margin-top: 5%;
     font-size: medium;
     color: green;
     background-color: black;  

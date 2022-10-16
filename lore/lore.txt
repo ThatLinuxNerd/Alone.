@@ -2,7 +2,7 @@ You wake up in a foreign place and you don't know how you ended up there, after 
 So now knowing that there seems to be no escape you decide to pull out your camera
 you think logging your travel through this place might help reveal a way out of were ever you are at 
 You start your journey starting off your log stating that you some how ended up here but you dont know why
-As you are looking around you notice some peculiar symbols around do you inspect or explore
+As you are looking around you notice some peculiar symbols around do you inspect or ignore   
 
 inspect: you bend down and inspect the strange symbols written into the ground, they seem....Fimilar...but maybe if you had enought to go off of you could maybe understand it? do you search for more, do you stare longer and try to make sense of it or do you take a photo of it for later use? 
 
@@ -10,7 +10,7 @@ inspect: you bend down and inspect the strange symbols written into the ground, 
 
 ignore: you decide to ignore the strange symbols and instead you walk off to try to explore, completely pushing that symbol out of your mind as you try to understand where you are. do you, you feel a bit hungry, you go off and try to find something even remotely edible?, venture  in search for any type of shelter? its cold. or do you  go back
 
-Search for more: You start looking for more after you saw the first one to see if there is only one cause it intrigues you
+stare: You start looking for more after you saw the first one to see if there is only one cause it intrigues you
 
 inspect: When you bend down to get a closer look you notice it reads 01000101
 
@@ -28,15 +28,15 @@ After inspecting the symbol and noticing it had numbers you go looking to see if
 
 After stumbiling and finding the cave and seeing the symbol you see that you can go deep in the cave do you go deeper 
 
-while looking for more symbols in the random direction you go is north or do you go east or do you go south
+stare: while looking for more symbols in the random direction you go is north or do you go east or do you go north
 
 while deciding if you wanna go deeper in the cave you notice other options do you go deeper could be something good in there or do you go to the lake you spotted in the distance in the cave or turn back and leave i already found something
 
-going east: while heading east you stumble apon a tree with a carving looking closely you see that it has  symbols they read 01110000 and 01100101 
+east: while heading east you stumble apon a tree with a carving looking closely you see that it has  symbols they read 01110000 and 01100101 
 
-going north: while heading north you come acrost a clif 
+north: while heading north you come acrost a clif 
 
-going west: you being walking or so long it has become completly dark out 
+west: you being walking or so long it has become completly dark out 
 
 going deeper into the cave: going deeper into the cave you notice that it leads to a small torch light room where you see a big arrow 
 
@@ -52,13 +52,13 @@ loking for more symbols: after you start looking for more symbols you end up fin
 
 When you first look at the cliff it looks like there is a way up but you uncertain if you should go up 
 
-going up the cliff: you decided to climb the cliff when you make it to the half way point you slip and fall all the way back down
+climb: you decided to climb the cliff when you make it to the half way point you slip and fall all the way back down
 
-not going up the cliff: you decided on not going up the cliff and decided it would be better if you looked for a different way 
+dont climb: you decided on not going up the cliff and decided it would be better if you looked for a different way 
 
-While walking ALONE in the dark you have no idea were you are you cant see thing and you end up triping on something but you dont know what 
+walk in the dark: While walking ALONE in the dark you have no idea were you are you cant see thing and you end up triping on something but you dont know what 
 
-look at what you triped over: you spot a rock picking it up seems to have reveald a message look closely at the numbers a clue to solve the riddle maybe 
+inspect: look at what you triped over: you spot a rock picking it up seems to have reveald a message look closely at the numbers a clue to solve the riddle maybe 
 
 After you see the arrow in the cave you follow the arrows witch leads to  a split in paths to go 
 

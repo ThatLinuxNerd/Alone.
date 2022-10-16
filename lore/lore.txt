@@ -44,7 +44,7 @@ going to the lake: you decide to head to the lake it is the first body of water 
 
 leaving the cave: you decide to leave you think nothing else could be there so why keep looking while walking out you trip on a branch and see two symbols carved into the dirt they seem to read 	01110000 and 	01100101 
 
-After finding the tree you are very ecited you have three symbols already and you think you remember what they mean so you look back through your footage you have so far do you wwrite down the numbers you have so far or keep looking for more symbols 
+(forced-read number):After finding the tree you are very ecited you have three symbols already and you think you remember what they mean so you look back through your footage you have so far do you wwrite down the numbers you have so far or keep looking for more symbols 
 
 writing down the numbers: after writing the numbers you notice something the symbols seem to be a code for something 
 
@@ -58,7 +58,7 @@ dont climb: you decided on not going up the cliff and decided it would be better
 
 walk in the dark: While walking ALONE in the dark you have no idea were you are you cant see thing and you end up triping on something but you dont know what 
 
-inspect: look at what you triped over: you spot a rock picking it up seems to have reveald a message look closely at the numbers a clue to solve the riddle maybe 
+inspect rock: look at what you triped over: you spot a rock picking it up seems to have reveald a message look closely at the numbers a clue to solve the riddle maybe 
 
 After you see the arrow in the cave you follow the arrows witch leads to  a split in paths to go 
 
